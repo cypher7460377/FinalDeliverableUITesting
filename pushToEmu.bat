@@ -1,0 +1,1 @@
+"C:\Program Files\eclipse\adt-bundle-windows-x86_64-20140702\sdk\platform-tools\adb" -s emulator-5554 push C:\Users\matt\workspace\UnitConversion1UITest\bin\UnitConversionUITest1.jar /data/local/tmp
